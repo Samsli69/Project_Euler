@@ -1,0 +1,15 @@
+C:\Users\Sam\source\repos\ProjectEuler\ProjectEuler\bin\Debug\net6.0\suiteDefibonacci.exe
+C:\Users\Sam\source\repos\ProjectEuler\ProjectEuler\bin\Debug\net6.0\suiteDefibonacci.deps.json
+C:\Users\Sam\source\repos\ProjectEuler\ProjectEuler\bin\Debug\net6.0\suiteDefibonacci.runtimeconfig.json
+C:\Users\Sam\source\repos\ProjectEuler\ProjectEuler\bin\Debug\net6.0\suiteDefibonacci.dll
+C:\Users\Sam\source\repos\ProjectEuler\ProjectEuler\bin\Debug\net6.0\ref\suiteDefibonacci.dll
+C:\Users\Sam\source\repos\ProjectEuler\ProjectEuler\bin\Debug\net6.0\suiteDefibonacci.pdb
+C:\Users\Sam\source\repos\ProjectEuler\ProjectEuler\obj\Debug\net6.0\suiteDefibonacci.csproj.AssemblyReference.cache
+C:\Users\Sam\source\repos\ProjectEuler\ProjectEuler\obj\Debug\net6.0\suiteDefibonacci.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sam\source\repos\ProjectEuler\ProjectEuler\obj\Debug\net6.0\suiteDefibonacci.AssemblyInfoInputs.cache
+C:\Users\Sam\source\repos\ProjectEuler\ProjectEuler\obj\Debug\net6.0\suiteDefibonacci.AssemblyInfo.cs
+C:\Users\Sam\source\repos\ProjectEuler\ProjectEuler\obj\Debug\net6.0\suiteDefibonacci.csproj.CoreCompileInputs.cache
+C:\Users\Sam\source\repos\ProjectEuler\ProjectEuler\obj\Debug\net6.0\suiteDefibonacci.dll
+C:\Users\Sam\source\repos\ProjectEuler\ProjectEuler\obj\Debug\net6.0\ref\suiteDefibonacci.dll
+C:\Users\Sam\source\repos\ProjectEuler\ProjectEuler\obj\Debug\net6.0\suiteDefibonacci.pdb
+C:\Users\Sam\source\repos\ProjectEuler\ProjectEuler\obj\Debug\net6.0\suiteDefibonacci.genruntimeconfig.cache
